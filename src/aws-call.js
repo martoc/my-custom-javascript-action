@@ -1,0 +1,1 @@
+console.log('Mocking an AWS call via JS AWS SDK');

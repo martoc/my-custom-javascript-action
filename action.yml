@@ -1,0 +1,6 @@
+name: 'Custom Javascript GitHub Action'
+description: 'Calls Javascript script'
+author: martoc
+runs:
+  using: 'node20'
+  main: dist/index.js 

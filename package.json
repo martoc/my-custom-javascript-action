@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "package": "ncc build src/aws-call.js -o dist"
+    },
+    "dependencies": {
+        "aws-sdk": "2.3.0",
+        "@vercel/ncc": "^0.38.1"
+    }
+}
