@@ -4,6 +4,6 @@
     },
     "dependencies": {
         "aws-sdk": "2.1692.0",
-        "@vercel/ncc": "^0.38.1"
+        "@vercel/ncc": "^0.38.4"
     }
 }
